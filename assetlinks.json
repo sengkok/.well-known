@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.qooreo.qooreov2",
+               "sha256_cert_fingerprints": ["E6:94:07:24:7C:1B:8C:03:19:08:08:DF:91:0F:79:8B:32:D0:46:0C:BA:88:4F:BF:98:AD:CB:0D:7D:E6:1A:54"] }
+}]
